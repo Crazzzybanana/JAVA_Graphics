@@ -1,0 +1,428 @@
+#==================================================
+#Material list
+#This file has been created by PoseRay v3.13.29.645
+#3D model to POV-Ray/Moray Converter.
+#Author: FlyerX
+#Email: flyerx_2000@yahoo.com
+#Web: https://sites.google.com/site/poseray/
+#==================================================
+ 
+#==================================================
+newmtl LEMChrome
+Ns 100.000002235174
+Ka 0 0 0
+Kd 0.376470588235294 0.376470588235294 0.376470588235294
+Ks 0.898039215686275 0.898039215686275 0.898039215686275
+d 1
+#Ka2 0 0 0
+#Ks2 0 0 0
+#Ns2 100
+#r 0
+#r2 0
+#blend 0
+#cell_hi
+#ref_fresnel 1.33
+#fake_fresnel_power 8
+#fake_fresnel_strength 0.5
+#sslt 0
+#interp 0 0 0 0
+#gamma default
+#gammacolor srgb
+#diffuse 0.6
+ 
+#==================================================
+newmtl LEMBlackSmooth
+Ns 3.22580642680348
+Ka 0 0 0
+Kd 0.274509803921569 0.274509803921569 0.274509803921569
+Ks 0.219607843137255 0.219607843137255 0.219607843137255
+d 1
+#Ka2 0 0 0
+#Ks2 0 0 0
+#Ns2 100
+#r 0
+#r2 0
+#blend 0
+#cell_hi
+#ref_fresnel 1.33
+#fake_fresnel_power 8
+#fake_fresnel_strength 0.5
+#sslt 0
+#interp 0 0 0 0
+#gamma default
+#gammacolor srgb
+#diffuse 0.6
+ 
+#==================================================
+newmtl LEMGoldFoil
+Ns 100.000002235174
+Ka 0 0 0
+Kd 0.47843137254902 0.392156862745098 0.219607843137255
+Ks 0.898039215686275 0.898039215686275 0.898039215686275
+d 1
+#Ka2 0 0 0
+#Ks2 0 0 0
+#Ns2 100
+#r 0.64
+#r2 0
+#blend 0
+#cell_hi
+#ref_fresnel 1.33
+#fake_fresnel_power 8
+#fake_fresnel_strength 0.5
+#sslt 0
+#interp 0 0 0 0
+#gamma default
+#gammacolor srgb
+#diffuse 0.6
+ 
+#==================================================
+newmtl LEMGreySmooth
+Ns 3.22580642680348
+Ka 0 0 0
+Kd 0.231372549019608 0.231372549019608 0.231372549019608
+Ks 0.101960784313725 0.101960784313725 0.101960784313725
+d 1
+#Ka2 0 0 0
+#Ks2 0 0 0
+#Ns2 100
+#r 0
+#r2 0
+#blend 0
+#cell_hi
+#ref_fresnel 1.33
+#fake_fresnel_power 8
+#fake_fresnel_strength 0.5
+#sslt 0
+#interp 0 0 0 0
+#gamma default
+#gammacolor srgb
+#diffuse 0.6
+ 
+#==================================================
+newmtl LEMSilver
+Ns 3.22580642680348
+Ka 0 0 0
+Kd 0.525490196078431 0.525490196078431 0.525490196078431
+Ks 0.101960784313725 0.101960784313725 0.101960784313725
+d 1
+#Ka2 0 0 0
+#Ks2 0 0 0
+#Ns2 100
+#r 0.51
+#r2 0
+#blend 0
+#cell_hi
+#ref_fresnel 1.33
+#fake_fresnel_power 8
+#fake_fresnel_strength 0.5
+#sslt 0
+#interp 0 0 0 0
+#gamma default
+#gammacolor srgb
+#diffuse 0.6
+ 
+#==================================================
+newmtl LEMPorch
+Ns 3.22580642680348
+Ka 0 0 0
+Kd 0.274509803921569 0.274509803921569 0.274509803921569
+Ks 0.219607843137255 0.219607843137255 0.219607843137255
+map_Bump C:\Models\1TurboSquid\ApolloFree\grill.jpg
+#bump_size 0.5
+d 1
+#Ka2 0 0 0
+#Ks2 0 0 0
+#Ns2 100
+#r 0
+#r2 0
+#blend 0
+#cell_hi
+#ref_fresnel 1.33
+#fake_fresnel_power 8
+#fake_fresnel_strength 0.5
+#sslt 0
+#interp 0 0 0 0
+#gamma default
+#gammacolor srgb
+#diffuse 0.6
+ 
+#==================================================
+newmtl LEMUSFlag
+Ns 3.22580642680348
+Ka 0 0 0
+Kd 0.898039215686275 0.898039215686275 0.898039215686275
+Ks 0.101960784313725 0.101960784313725 0.101960784313725
+map_Kd C:\Models\1TurboSquid\ApolloFree\usflag.jpg
+d 1
+#Ka2 0 0 0
+#Ks2 0 0 0
+#Ns2 100
+#r 0
+#r2 0
+#blend 0
+#cell_hi
+#ref_fresnel 1.33
+#fake_fresnel_power 8
+#fake_fresnel_strength 0.5
+#sslt 0
+#interp 0 0 0 0
+#gamma default
+#gammacolor srgb
+#diffuse 0.6
+ 
+#==================================================
+newmtl LEMSilverHab
+Ns 3.22580642680348
+Ka 0 0 0
+Kd 0.525490196078431 0.525490196078431 0.525490196078431
+Ks 0.101960784313725 0.101960784313725 0.101960784313725
+d 1
+#Ka2 0 0 0
+#Ks2 0 0 0
+#Ns2 100
+#r 0.51
+#r2 0
+#blend 0
+#cell_hi
+#ref_fresnel 1.33
+#fake_fresnel_power 8
+#fake_fresnel_strength 0.5
+#sslt 0
+#interp 0 0 0 0
+#gamma default
+#gammacolor srgb
+#diffuse 0.6
+ 
+#==================================================
+newmtl LEMSilverDoors
+Ns 3.22580642680348
+Ka 0 0 0
+Kd 0.525490196078431 0.525490196078431 0.525490196078431
+Ks 0.101960784313725 0.101960784313725 0.101960784313725
+d 1
+#Ka2 0 0 0
+#Ks2 0 0 0
+#Ns2 100
+#r 0.51
+#r2 0
+#blend 0
+#cell_hi
+#ref_fresnel 1.33
+#fake_fresnel_power 8
+#fake_fresnel_strength 0.5
+#sslt 0
+#interp 0 0 0 0
+#gamma default
+#gammacolor srgb
+#diffuse 0.6
+ 
+#==================================================
+newmtl LEMBlackHab
+Ns 3.22580642680348
+Ka 0 0 0
+Kd 0.313725490196078 0.313725490196078 0.313725490196078
+Ks 0.219607843137255 0.219607843137255 0.219607843137255
+d 1
+#Ka2 0 0 0
+#Ks2 0 0 0
+#Ns2 100
+#r 0
+#r2 0
+#blend 0
+#cell_hi
+#ref_fresnel 1.33
+#fake_fresnel_power 8
+#fake_fresnel_strength 0.5
+#sslt 0
+#interp 0 0 0 0
+#gamma default
+#gammacolor srgb
+#diffuse 0.6
+ 
+#==================================================
+newmtl LEMWindowGlass
+Ns 25.0000005587936
+Ka 0 0 0
+Kd 0.376470588235294 0.376470588235294 0.376470588235294
+Ks 0.898039215686275 0.898039215686275 0.898039215686275
+d 0.01
+#Ka2 0 0 0
+#Ks2 0 0 0
+#Ns2 100
+#r 0.48
+#r2 0
+#blend 0
+#cell_hi
+#ref_fresnel 1.33
+#fake_fresnel_power 8
+#fake_fresnel_strength 0.5
+#sslt 0
+#interp 0 0 0 0
+#gamma default
+#gammacolor srgb
+#diffuse 0.6
+ 
+#==================================================
+newmtl LEMDish02
+Ns 25.0000005587936
+Ka 0 0 0
+Kd 0.192156862745098 0.192156862745098 0.192156862745098
+Ks 0.501960784313725 0.501960784313725 0.501960784313725
+d 1
+#Ka2 0 0 0
+#Ks2 0 0 0
+#Ns2 100
+#r 0
+#r2 0
+#blend 0
+#cell_hi
+#ref_fresnel 1.33
+#fake_fresnel_power 8
+#fake_fresnel_strength 0.5
+#sslt 0
+#interp 0 0 0 0
+#gamma default
+#gammacolor srgb
+#diffuse 0.6
+ 
+#==================================================
+newmtl LEMDish01
+Ns 25.0000005587936
+Ka 0 0 0
+Kd 0.192156862745098 0.192156862745098 0.192156862745098
+Ks 0.501960784313725 0.501960784313725 0.501960784313725
+d 1
+#Ka2 0 0 0
+#Ks2 0 0 0
+#Ns2 100
+#r 0
+#r2 0
+#blend 0
+#cell_hi
+#ref_fresnel 1.33
+#fake_fresnel_power 8
+#fake_fresnel_strength 0.5
+#sslt 0
+#interp 0 0 0 0
+#gamma default
+#gammacolor srgb
+#diffuse 0.6
+ 
+#==================================================
+newmtl LEMThruster01White
+Ns 12.5000002793968
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.615686274509804 0.615686274509804 0.615686274509804
+d 1
+#Ka2 0 0 0
+#Ks2 0 0 0
+#Ns2 100
+#r 0
+#r2 0
+#blend 0
+#cell_hi
+#ref_fresnel 1.33
+#fake_fresnel_power 8
+#fake_fresnel_strength 0.5
+#sslt 0
+#interp 0 0 0 0
+#gamma default
+#gammacolor srgb
+#diffuse 0.6
+ 
+#==================================================
+newmtl LEMThruster01Inside
+Ns 12.5000002793968
+Ka 0 0 0
+Kd 0.509803921568627 0.509803921568627 0.509803921568627
+Ks 0.615686274509804 0.615686274509804 0.615686274509804
+d 1
+#Ka2 0 0 0
+#Ks2 0 0 0
+#Ns2 100
+#r 0
+#r2 0
+#blend 0
+#cell_hi
+#ref_fresnel 1.33
+#fake_fresnel_power 8
+#fake_fresnel_strength 0.5
+#sslt 0
+#interp 0 0 0 0
+#gamma default
+#gammacolor srgb
+#diffuse 0.6
+ 
+#==================================================
+newmtl LEMThruster01
+Ns 12.5000002793968
+Ka 0 0 0
+Kd 0.752941176470588 0.752941176470588 0.752941176470588
+Ks 0.615686274509804 0.615686274509804 0.615686274509804
+d 1
+#Ka2 0 0 0
+#Ks2 0 0 0
+#Ns2 100
+#r 0
+#r2 0
+#blend 0
+#cell_hi
+#ref_fresnel 1.33
+#fake_fresnel_power 8
+#fake_fresnel_strength 0.5
+#sslt 0
+#interp 0 0 0 0
+#gamma default
+#gammacolor srgb
+#diffuse 0.6
+ 
+#==================================================
+newmtl LEMRed
+Ns 25.0000005587936
+Ka 0 0 0
+Kd 0.698039215686274 0 0
+Ks 0.4 0.4 0.4
+d 1
+#Ka2 0 0 0
+#Ks2 0 0 0
+#Ns2 100
+#r 0
+#r2 0
+#blend 0
+#cell_hi
+#ref_fresnel 1.33
+#fake_fresnel_power 8
+#fake_fresnel_strength 0.5
+#sslt 0
+#interp 0 0 0 0
+#gamma default
+#gammacolor srgb
+#diffuse 0.6
+ 
+#==================================================
+newmtl LEMUSA
+Ns 100.000002235174
+Ka 0 0 0
+Kd 0.47843137254902 0.392156862745098 0.219607843137255
+Ks 0.898039215686275 0.898039215686275 0.898039215686275
+map_Kd C:\Models\1TurboSquid\ApolloFree\usa.jpg
+map_Ks C:\Models\1TurboSquid\ApolloFree\usa.jpg
+d 1
+#Ka2 0 0 0
+#Ks2 0 0 0
+#Ns2 100
+#r 0.64
+#r2 0
+#blend 0
+#cell_hi
+#ref_fresnel 1.33
+#fake_fresnel_power 8
+#fake_fresnel_strength 0.5
+#sslt 0
+#interp 0 0 0 0
+#gamma default
+#gammacolor srgb
+#diffuse 0.6
+ 
